@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100%" xmlns:vectornator="http://vectornator.io" version="1.1" viewBox="0 0 1024 1024">
+<metadata>
+<vectornator:setting key="DisplayWhiteBackground" value="0"/>
+<vectornator:setting key="RulersVisible" value="1"/>
+<vectornator:setting key="Units" value="Pixels"/>
+<vectornator:setting key="New" value="1"/>
+<vectornator:setting key="DynamicGuides" value="0"/>
+<vectornator:setting key="GuidesVisible" value="1"/>
+<vectornator:setting key="SnapToPoints" value="0"/>
+<vectornator:setting key="SnapToGrid" value="0"/>
+<vectornator:setting key="SnapToGuides" value="1"/>
+<vectornator:setting key="DimensionsVisible" value="1"/>
+<vectornator:setting key="SnapToEdges" value="0"/>
+</metadata>
+<defs/>
+<g id="Layer 1" vectornator:layerName="Layer 1">
+<path d="M901.287+59.4682L125.508+59.4682C78.0461+59.4682+38.4687+95.8991+38.4687+139.588L38.4687+853.691C38.4687+897.38+78.0461+933.811+125.508+933.811L901.287+933.811C948.749+933.811+988.326+897.38+988.326+853.691L988.326+139.588C988.326+95.8991+948.749+59.4682+901.287+59.4682ZM315.511+788.087L157.201+788.087L157.201+387.347L315.511+387.347L315.511+788.087ZM236.356+339.958C188.894+339.958+157.201+310.785+157.201+274.354C157.201+234.365+188.894+205.192+236.356+205.192C283.818+205.192+315.511+234.365+315.511+270.796C315.511+310.785+283.818+339.958+236.356+339.958ZM869.594+788.087L711.285+788.087L711.285+569.501C711.285+511.155+667.688+496.639+655.938+496.639C644.034+496.639+592.552+503.897+592.552+569.501C592.552+576.759+592.552+788.087+592.552+788.087L434.243+788.087L434.243+387.347L592.552+387.347L592.552+445.693C616.361+412.82+655.938+387.347+731.073+387.347C806.209+387.347+869.594+441.993+869.594+569.501L869.594+788.087Z" opacity="1" fill="#44a2f8"/>
+</g>
+</svg>
